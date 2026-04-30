@@ -1,0 +1,43 @@
+# Swift build artifacts
+.build/
+.swiftpm/
+Build/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# App bundles (built, not source)
+*.app/
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace/
+
+# Binaries
+*.o
+*.swiftmodule
+*.swiftdoc
+*.swiftsourceinfo
+
+# IDE
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Temp files
+*.lock
+tmp/
