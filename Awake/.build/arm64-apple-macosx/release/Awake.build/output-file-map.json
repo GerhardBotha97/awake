@@ -1,0 +1,13 @@
+{
+  "": {
+    "dependencies": "/Users/gerbot/Desktop/awake/Awake/.build/arm64-apple-macosx/release/Awake.build/Awake.d",
+    "object": "/Users/gerbot/Desktop/awake/Awake/.build/arm64-apple-macosx/release/Awake.build/Awake.o",
+    "swift-dependencies": "/Users/gerbot/Desktop/awake/Awake/.build/arm64-apple-macosx/release/Awake.build/primary.swiftdeps"
+  },
+  "/Users/gerbot/Desktop/awake/Awake/Sources/Awake/main.swift": {
+    "object": "/Users/gerbot/Desktop/awake/Awake/.build/arm64-apple-macosx/release/Awake.build/main.swift.o",
+    "swiftmodule": "/Users/gerbot/Desktop/awake/Awake/.build/arm64-apple-macosx/release/Awake.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerbot/Desktop/awake/Awake/.build/arm64-apple-macosx/release/Awake.build/main.swiftdeps",
+    "diagnostics": "/Users/gerbot/Desktop/awake/Awake/.build/arm64-apple-macosx/release/Awake.build/main.dia"
+  }
+}
